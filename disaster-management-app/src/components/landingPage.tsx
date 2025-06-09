@@ -4,11 +4,9 @@ import {
   CardContent,
   Typography,
   Button,
-  Grid,
   Pagination,
   Box,
 } from '@mui/material';
-import DisasterCard from './cards/card';
 import DisasterMap from './maps/disasterMap';
 import AssignPersonnelDialog from './fieldPersonnel/AssignPersonnelDialog';
 
